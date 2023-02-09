@@ -43,5 +43,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-#env variables
+#env variables cached
 /lib/env/env.dart
